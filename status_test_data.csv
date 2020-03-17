@@ -1,0 +1,11 @@
+﻿id,gender,age,death,recovered
+1,male,5,0,0
+2,male,20,1,0
+3,female,30,,
+4,female,80,0,1
+5,,35,,
+6,male,60,0,0
+7,,,1,0
+8,,,,
+9,female,41,,2/26/2020
+10,male,34,3/1/2020,
